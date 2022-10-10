@@ -1,0 +1,5 @@
+producto = input("Introduce un producto: " "\n")
+precio = input("Introduce el precio con dos decimales: " "\n")
+cadena = precio.split(".")
+print(cadena[0], "euros")
+print(cadena[1], "centimos")
