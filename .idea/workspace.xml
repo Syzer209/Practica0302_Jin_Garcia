@@ -36,7 +36,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/2M/Desktop/practica0203_garcia_jin&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Ejercicio7">
+  <component name="RunManager">
     <configuration name="Ejercicio1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="practica0203_garcia_jin" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ejercicio7" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="Ejercicio7a" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="practica0203_garcia_jin" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,7 +175,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejercicio7.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Dell\OneDrive\Escritorio\Dapi\GitHub\practica0203_garcia_jin\Ejercicio7a.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
